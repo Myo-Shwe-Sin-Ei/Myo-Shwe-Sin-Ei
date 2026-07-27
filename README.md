@@ -14,4 +14,4 @@ background. I care as much about *why the numbers matter* as the methods behind 
 - **[UK House Price Prediction](https://github.com/Myo-Shwe-Sin-Ei/UK_housing_price_prediction_ML)** — Ridge vs Random Forest on 250k records (MATLAB)
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/myo-shwe-sin-ei-4725b6254/) · [Portfolio](https://myo-shwe-sin-ei.github.io/Portfolio-website/)
+[LinkedIn](https://www.linkedin.com/in/myo-shwe-sin-ei-4725b6254/) · 
