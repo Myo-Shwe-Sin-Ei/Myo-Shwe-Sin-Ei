@@ -1,6 +1,6 @@
 # Hi, I'm Myo 👋
 
-📊 **Data Science MSc student @ City, University of London** · **Data Analyst** · London
+📊 **Data Analyst** · **Data Science MSc student @ City, University of London** · London
 
 I turn messy public data into clear, decision-ready insight. Business & economics
 background. I care as much about *why the numbers matter* as the methods behind them.
