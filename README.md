@@ -2,7 +2,7 @@
 
 📊 **Data Analyst** · **Data Science MSc student @ City, University of London** · London
 
-I turn messy public data into clear, decision-ready insight. Business & economics
+I turn data into end-to-end automated pipelines for commercial use. Business & economics
 background. I care as much about *why the numbers matter* as the methods behind them.
 
 ### 🔧 Toolkit
