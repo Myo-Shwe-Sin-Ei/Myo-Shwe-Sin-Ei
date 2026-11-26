@@ -6,7 +6,7 @@ I turn data into end-to-end automated pipelines for commercial use. Business & e
 background. I care as much about *why the numbers matter* as the methods behind them.
 
 ### 🔧 Toolkit
-`SQL` · `Python (pandas, NumPy)` · `Excel` · `Tableau` · `R` · `MATLAB` · statistics & experiment design
+`SQL` · `Python (pandas, NumPy)` · `Excel` · `Tableau` · `MATLAB` · statistics & experiment design
 
 ### 📌 Featured projects
 - **[London Housing Affordability](https://github.com/Myo-Shwe-Sin-Ei/London_housing_affordability_datascience)** — borough-level affordability analysis (Python)
