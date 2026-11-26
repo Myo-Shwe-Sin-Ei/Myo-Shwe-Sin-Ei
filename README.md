@@ -1,6 +1,6 @@
 # Hi, I'm Myo 👋
 
-📊  **Data Science MSc student @ City, University of London** · London
+📊  **Data Science  @ City, University of London** · London
 
 I turn data into end-to-end automated pipelines for commercial use. Business & economics
 background. I care as much about *why the numbers matter* as the methods behind them.
