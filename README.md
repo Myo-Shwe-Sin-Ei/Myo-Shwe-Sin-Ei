@@ -9,7 +9,8 @@ background. I care as much about *why the numbers matter* as the methods behind 
 `SQL` · `Python (pandas, NumPy, scikit-learn)` · `Excel` · `PowerBI` · `Tableau` · `MATLAB` · statistics & experiment design
 
 ### 📌 Featured projects
-- **[London Housing Affordability](https://github.com/Myo-Shwe-Sin-Ei/London_housing_affordability_datascience)** - borough-level affordability analysis (Python)
+- **[London Housing Affordability](https://github.com/Myo-Shwe-Sin-Ei/London_housing_affordability_datascience)** - borough-level affordability analysis with 9 government datasets (Python)
+- **[London Housing Affordability](https://github.com/Myo-Shwe-Sin-Ei/London_housing_affordability_datascience)** - borough-level affordability analysis with 9 government datasets (Python)
 - **[London Air Quality & the ULEZ](https://github.com/Myo-Shwe-Sin-Ei/ULEZ_Visual_Analytics)** - separating policy effect from COVID lockdown (Tableau + Python)
 - **[UK House Price Prediction](https://github.com/Myo-Shwe-Sin-Ei/UK_housing_price_prediction_ML)** - Ridge vs Random Forest on 250k records (MATLAB)
 
